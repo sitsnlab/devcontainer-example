@@ -26,6 +26,6 @@ RUN pip install --upgrade pip && \
     rm requirements.txt
 
 # PyTorchをインストール
-RUN pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+RUN pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124 --timeout 150
 
 WORKDIR /workspaces

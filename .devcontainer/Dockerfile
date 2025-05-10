@@ -1,4 +1,8 @@
+# ベースを指定
 FROM ubuntu:24.04
+
+# 非対話モードに設定
+ENV DEBIAN_FRONTEND=noninteractive
 
 # 必要なパッケージをインストール
 RUN apt-get update \

@@ -12,8 +12,9 @@
         │   ├── Dockerfile
         │   └── requirements.txt
     ```
+    例
     - Dockerfileの"name"
-    - Dokcerfileのpytorxh url[https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+    - Dokcerfileのpytorchのurl: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 
 2. 左下の "><" を選択し、その後 "Reopen in Container" を選択。
 

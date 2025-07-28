@@ -14,7 +14,7 @@
     ```
     例
     - Dockerfileの"name"
-    - Dokcerfileのpytorchのurl: [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
+    - Dokcerfileのpytorchのurl (参照先のリンク：[https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/))
 
 2. 左下の "><" を選択し、その後 "Reopen in Container" を選択。
 
